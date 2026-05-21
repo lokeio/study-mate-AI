@@ -1,0 +1,50 @@
+datasets:
+  - key: laominghao_math
+    name: 老明皓-数学
+    description: 数学学习资料（一轮复习、二轮复习、专项复习+试题）
+    allowed_ops:
+      - create
+      - update
+      - list
+  - key: laominghao_english
+    name: 老明皓-英语
+    description: 英语学习资料（一轮复习、二轮复习、专项复习+试题）
+    allowed_ops:
+      - create
+      - update
+      - list
+  - key: laominghao_chinese
+    name: 老明皓-语文
+    description: 语文学习资料（一轮复习、二轮复习、专项复习+试题）
+    allowed_ops:
+      - create
+      - update
+      - list
+  - key: laominghao_politics
+    name: 老明皓-政治
+    description: 政治学习资料（一轮复习、二轮复习、专项复习+试题）
+    allowed_ops:
+      - create
+      - update
+      - list
+  - key: laominghao_geography
+    name: 老明皓-地理
+    description: 地理学习资料（一轮复习、二轮复习、专项复习+试题）
+    allowed_ops:
+      - create
+      - update
+      - list
+  - key: laominghao_history
+    name: 老明皓-历史
+    description: 历史学习资料（一轮复习、二轮复习、专项复习+试题）
+    allowed_ops:
+      - create
+      - update
+      - list
+  - key: laominghao_comprehensive
+    name: 老明皓-文综-综合
+    description: 政史地综合试题
+    allowed_ops:
+      - create
+      - update
+      - list

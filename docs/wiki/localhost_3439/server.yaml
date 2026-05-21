@@ -1,0 +1,2 @@
+base_url: http://localhost:3439
+api_key_env: DIFY_API_KEY

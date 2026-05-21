@@ -1,0 +1,32 @@
+.DS_Store
+.tmp/
+
+# Local secrets
+docs/wiki/*/config.yaml
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+coverage.json
+venv/
+
+# Build/dependency artifacts
+node_modules/
+dist/
+build/
+target/
+.gradle/
+.idea/
+
+# Source binary study materials are kept locally; converted Markdown is tracked.
+docs/系统分析师/**/*.pdf
+docs/系统分析师/**/*.doc
+docs/系统分析师/**/*.docx
+docs/系统分析师/**/*.png
+docs/系统分析师/**/*.jpg
+docs/系统分析师/**/*.jpeg
+docs/系统分析师/**/*.webp
+docs/系统分析师/**/*.mp4
+docs/系统分析师/**/*.rar
