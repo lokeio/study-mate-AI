@@ -48,3 +48,12 @@ datasets:
       - create
       - update
       - list
+  - key: study_mate_ai_system_analyst
+    id: dc5aaab2-cb61-45ac-8097-41211058b22e
+    name: study-mate-AI-系统分析师
+    description: 系统分析师 Markdown 学习资料
+    allowed_ops:
+      - create
+      - update
+      - list
+      - query
